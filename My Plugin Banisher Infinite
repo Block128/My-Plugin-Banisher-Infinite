@@ -1517,7 +1517,7 @@ Mouse.KeyDown:connect(function(k)
 	if(k == 'z')then Banishing_Storm() end
 	if(k == 'b')then Spectral_Banish() end
 	if(k == 'c')then Teleport() end
-	if(k == 'v')then BGone() end
+	if(k == '')then BGone() end
 	if(k == 't')then Taunt() end
 	
 end)
